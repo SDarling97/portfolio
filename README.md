@@ -1,5 +1,5 @@
 # portfolio
-| Project Title                     | Description                                                                 | Tools Used                       | Links                          |
+| Project Title                      | Description                                                                 | Tools Used                       | Links                          |
 |-----------------------------------|-----------------------------------------------------------------------------|----------------------------------|--------------------------------|
 | **New York State Hospitals - Elective Hip Surgery Inpatient Data**               | A comprehensive sales dashboard analyzing key metrics across regions.       | Power BI, DAX                    | [View Dashboard](https://app.powerbi.com/view?r=example-link) |
 | **Customer Segmentation Analysis**| Analyzing customer data to segment based on purchasing behavior.            | Python, Pandas, Seaborn, Matplotlib | [Kaggle Notebook](https://www.kaggle.com/yourusername/customer-segmentation) |
